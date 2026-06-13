@@ -63,7 +63,7 @@ Ensure you have the following installed:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/ShivamGupta1802/Bidify.git
+   git clone https://github.com/vanshpal401/Bidify.git
    cd project
    ```
 
@@ -155,4 +155,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## Contact
-For queries, please contact **Vansh Pal** at: [palv24190@gmail.com](mailto:sg3993415@gmail.com).
+For queries, please contact **Vansh Pal** at: [palv24190@gmail.com](mailto:palv24190@gmail.com).
